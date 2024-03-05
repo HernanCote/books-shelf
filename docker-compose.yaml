@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: postgres
+    container_name: book-shelf.postgres
+    environment:
+      - POSTGRES_PASSWORD=postgrespw
+    ports:
+      - 5432:5432
+    volumes:
+      - /var/lib/postgresql/data

@@ -1,0 +1,330 @@
+[
+  {
+    "Id": "AS443",
+    "FirstName": "Abraham",
+    "LastName": "Stackhouse",
+    "Birthday": "01.07.2147",
+    "CountryOfResidence": "Norway",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "AW980",
+    "FirstName": "Amelia",
+    "LastName": "Wangerin, Jr.",
+    "Birthday": "26.03.2141",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 16
+  },
+  {
+    "Id": "AI923",
+    "FirstName": "Anastasia",
+    "LastName": "Inez",
+    "Birthday": "30.03.2148",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 11
+  },
+  {
+    "Id": "AM329",
+    "FirstName": "Arthur",
+    "LastName": "McCrumb",
+    "Birthday": "13.03.2148",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 3
+  },
+  {
+    "Id": "AH957",
+    "FirstName": "Arturo",
+    "LastName": "Hijuelos",
+    "Birthday": "09.01.2129",
+    "CountryOfResidence": "United Kingdom",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "BH149",
+    "FirstName": "Bernard",
+    "LastName": "Hopf",
+    "Birthday": "27.11.2122",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 1
+  },
+  {
+    "Id": "BT132",
+    "FirstName": "Bianca",
+    "LastName": "Thompson",
+    "Birthday": "28.01.2150",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 5
+  },
+  {
+    "Id": "BL857",
+    "FirstName": "Bravig",
+    "LastName": "Lewisohn",
+    "Birthday": "21.01.2238",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 11
+  },
+  {
+    "Id": "BM856",
+    "FirstName": "Burton",
+    "LastName": "Malamud",
+    "Birthday": "18.01.2145",
+    "CountryOfResidence": "Brazil",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "CS190",
+    "FirstName": "Carolyn",
+    "LastName": "Segal",
+    "Birthday": "24.09.2133",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 7
+  },
+  {
+    "Id": "CF829",
+    "FirstName": "Charles",
+    "LastName": "Fenimore",
+    "Birthday": "18.03.2120",
+    "CountryOfResidence": "Norway",
+    "HoursWritingPerDay": 7
+  },
+  {
+    "Id": "CW626",
+    "FirstName": "Clifford",
+    "LastName": "Wolitzer",
+    "Birthday": "01.08.2143",
+    "CountryOfResidence": "United Kingdom",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "DF413",
+    "FirstName": "Darryl",
+    "LastName": "Fleischman",
+    "Birthday": "07.12.2131",
+    "CountryOfResidence": "Germany",
+    "HoursWritingPerDay": 16
+  },
+  {
+    "Id": "DB605",
+    "FirstName": "David",
+    "LastName": "Beam",
+    "Birthday": "26.02.2157",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 5
+  },
+  {
+    "Id": "EH487",
+    "FirstName": "Elizabeth",
+    "LastName": "Herbach",
+    "Birthday": "22.01.2157",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 0
+  },
+  {
+    "Id": "EK605",
+    "FirstName": "Elmer",
+    "LastName": "Komroff",
+    "Birthday": "11.07.2129",
+    "CountryOfResidence": "Norway",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "GG800",
+    "FirstName": "Gloria",
+    "LastName": "Green",
+    "Birthday": "19.09.2156",
+    "CountryOfResidence": "Hong Kong",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "GH671",
+    "FirstName": "Grace",
+    "LastName": "Harrison",
+    "Birthday": "08.04.2161",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "HM751",
+    "FirstName": "Hamlin",
+    "LastName": "Myrer",
+    "Birthday": "29.01.2225",
+    "CountryOfResidence": "Brazil",
+    "HoursWritingPerDay": 9
+  },
+  {
+    "Id": "HB302",
+    "FirstName": "Hillary",
+    "LastName": "Barnhardt",
+    "Birthday": "07.03.2154",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 4
+  },
+  {
+    "Id": "JH502",
+    "FirstName": "Jill",
+    "LastName": "Hergesheimer",
+    "Birthday": "15.06.2156",
+    "CountryOfResidence": "Canada",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "JS525",
+    "FirstName": "John W.",
+    "LastName": "Spanogle",
+    "Birthday": "10.08.2149",
+    "CountryOfResidence": "United Kingdom",
+    "HoursWritingPerDay": 10
+  },
+  {
+    "Id": "JK592",
+    "FirstName": "Jonathan",
+    "LastName": "Kotzwinkle",
+    "Birthday": "03.02.2151",
+    "CountryOfResidence": "Germany",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "KY296",
+    "FirstName": "Kathy",
+    "LastName": "Yglesias",
+    "Birthday": "03.04.2151",
+    "CountryOfResidence": "Brazil",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "KD840",
+    "FirstName": "Kenneth",
+    "LastName": "Douglas",
+    "Birthday": "24.09.2163",
+    "CountryOfResidence": "South Africa",
+    "HoursWritingPerDay": 3
+  },
+  {
+    "Id": "KE397",
+    "FirstName": "Kris",
+    "LastName": "Elegant",
+    "Birthday": "26.08.2149",
+    "CountryOfResidence": "Hong Kong",
+    "HoursWritingPerDay": 5
+  },
+  {
+    "Id": "LL585",
+    "FirstName": "Langston",
+    "LastName": "Lippman",
+    "Birthday": "02.10.2147",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 0
+  },
+  {
+    "Id": "LN356",
+    "FirstName": "Leonard",
+    "LastName": "Nabokov",
+    "Birthday": "29.09.2169",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 1
+  },
+  {
+    "Id": "LK915",
+    "FirstName": "Lori",
+    "LastName": "Kaan",
+    "Birthday": "27.03.2147",
+    "CountryOfResidence": "China",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "LD375",
+    "FirstName": "Lynne",
+    "LastName": "Danticat",
+    "Birthday": "19.08.2155",
+    "CountryOfResidence": "New Zealand",
+    "HoursWritingPerDay": 8
+  },
+  {
+    "Id": "MW974",
+    "FirstName": "Malin",
+    "LastName": "Wolff",
+    "Birthday": "31.01.2141",
+    "CountryOfResidence": "Hong Kong",
+    "HoursWritingPerDay": 6
+  },
+  {
+    "Id": "OL640",
+    "FirstName": "Oliver",
+    "LastName": "Lowry",
+    "Birthday": "29.08.2155",
+    "CountryOfResidence": "Netherlands",
+    "HoursWritingPerDay": 4
+  },
+  {
+    "Id": "PH273",
+    "FirstName": "Patricia",
+    "LastName": "Hazzard",
+    "Birthday": "27.04.2146",
+    "CountryOfResidence": "Singapore",
+    "HoursWritingPerDay": 5
+  },
+  {
+    "Id": "PA878",
+    "FirstName": "Philip",
+    "LastName": "Antrim",
+    "Birthday": "22.04.2148",
+    "CountryOfResidence": "Netherlands",
+    "HoursWritingPerDay": 7
+  },
+  {
+    "Id": "PB147",
+    "FirstName": "Phoebe",
+    "LastName": "Brown",
+    "Birthday": "21.08.2149",
+    "CountryOfResidence": "Hong Kong",
+    "HoursWritingPerDay": 13
+  },
+  {
+    "Id": "RL217",
+    "FirstName": "R.M.",
+    "LastName": "Larner",
+    "Birthday": "26.03.2130",
+    "CountryOfResidence": "China",
+    "HoursWritingPerDay": 9
+  },
+  {
+    "Id": "RM781",
+    "FirstName": "Robert",
+    "LastName": "Milofsky",
+    "Birthday": "12.01.2157",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 10
+  },
+  {
+    "Id": "RP438",
+    "FirstName": "Robert",
+    "LastName": "Plimpton",
+    "Birthday": "11.11.2160",
+    "CountryOfResidence": "Canada",
+    "HoursWritingPerDay": 13
+  },
+  {
+    "Id": "UK129",
+    "FirstName": "Ursula",
+    "LastName": "Kar√©nine",
+    "Birthday": "25.02.2156",
+    "CountryOfResidence": "United Kingdom",
+    "HoursWritingPerDay": 9
+  },
+  {
+    "Id": "WH901",
+    "FirstName": "Ward",
+    "LastName": "Haigh",
+    "Birthday": "07.10.2153",
+    "CountryOfResidence": "Brazil",
+    "HoursWritingPerDay": 7
+  },
+  {
+    "Id": "WB149",
+    "FirstName": "Wendell",
+    "LastName": "Barton",
+    "Birthday": "25.10.2138",
+    "CountryOfResidence": "United States",
+    "HoursWritingPerDay": 2
+  }
+]

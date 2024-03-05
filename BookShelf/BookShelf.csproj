@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="EFCore.NamingConventions" Version="7.0.2" />
+        <PackageReference Include="HotChocolate" Version="13.9.0" />
+        <PackageReference Include="HotChocolate.AspNetCore" Version="13.9.0" />
+        <PackageReference Include="HotChocolate.Data.EntityFramework" Version="13.9.0" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.16" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.16">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.16">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Npgsql" Version="7.0.6" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
+        <PackageReference Include="Polly" Version="7.2.4" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\Migrations" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Data\Authors.json" />
+      <None Include="Data\Books.json" />
+      <None Include="Data\Edition.json" />
+      <None Include="Data\Rating.json" />
+    </ItemGroup>
+
+</Project>

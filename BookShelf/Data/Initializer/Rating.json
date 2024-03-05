@@ -1,0 +1,5012 @@
+[
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 105,
+    "ReviewId": 3372
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 113,
+    "ReviewId": 7340
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 234,
+    "ReviewId": 20430
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 459,
+    "ReviewId": 40653
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 550,
+    "ReviewId": 51337
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 613,
+    "ReviewId": 52687
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 870,
+    "ReviewId": 80763
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 1014,
+    "ReviewId": 98430
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 1245,
+    "ReviewId": 115590
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 1307,
+    "ReviewId": 126839
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 1546,
+    "ReviewId": 148957
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 1598,
+    "ReviewId": 153761
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 1629,
+    "ReviewId": 154881
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 1932,
+    "ReviewId": 186666
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 2250,
+    "ReviewId": 219753
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 2316,
+    "ReviewId": 225066
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 2366,
+    "ReviewId": 231452
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 2385,
+    "ReviewId": 230679
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 2459,
+    "ReviewId": 238574
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 2559,
+    "ReviewId": 250653
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 2686,
+    "ReviewId": 263947
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 2796,
+    "ReviewId": 270987
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 2929,
+    "ReviewId": 287653
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 2944,
+    "ReviewId": 291232
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 3022,
+    "ReviewId": 296458
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 3024,
+    "ReviewId": 298539
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 3051,
+    "ReviewId": 302130
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 3290,
+    "ReviewId": 323753
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 3356,
+    "ReviewId": 326888
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 3443,
+    "ReviewId": 338657
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 3453,
+    "ReviewId": 340449
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 3491,
+    "ReviewId": 340685
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 3521,
+    "ReviewId": 343586
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 3565,
+    "ReviewId": 347788
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 3649,
+    "ReviewId": 361435
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 3673,
+    "ReviewId": 363736
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 3948,
+    "ReviewId": 389949
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 4017,
+    "ReviewId": 393582
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 4378,
+    "ReviewId": 433939
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 4434,
+    "ReviewId": 435579
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 4577,
+    "ReviewId": 451562
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 4632,
+    "ReviewId": 459438
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 4669,
+    "ReviewId": 460762
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 4791,
+    "ReviewId": 473754
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 5057,
+    "ReviewId": 501938
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 5216,
+    "ReviewId": 514076
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 5218,
+    "ReviewId": 514771
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5337,
+    "ReviewId": 527760
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 5374,
+    "ReviewId": 529876
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 5498,
+    "ReviewId": 544157
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5513,
+    "ReviewId": 547142
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5605,
+    "ReviewId": 557530
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5697,
+    "ReviewId": 561186
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 5701,
+    "ReviewId": 561685
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 5778,
+    "ReviewId": 571662
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5829,
+    "ReviewId": 575673
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 5855,
+    "ReviewId": 579362
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 5884,
+    "ReviewId": 582064
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 5967,
+    "ReviewId": 591354
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6079,
+    "ReviewId": 599188
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6091,
+    "ReviewId": 602566
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6211,
+    "ReviewId": 617635
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 6287,
+    "ReviewId": 623453
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6307,
+    "ReviewId": 625849
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6309,
+    "ReviewId": 627534
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6418,
+    "ReviewId": 635959
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6550,
+    "ReviewId": 648763
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6574,
+    "ReviewId": 653638
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6596,
+    "ReviewId": 653462
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6631,
+    "ReviewId": 655081
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 6636,
+    "ReviewId": 660135
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 6747,
+    "ReviewId": 669057
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 6765,
+    "ReviewId": 673233
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 6816,
+    "ReviewId": 677739
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 6876,
+    "ReviewId": 683046
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7028,
+    "ReviewId": 693890
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7035,
+    "ReviewId": 700035
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7099,
+    "ReviewId": 701287
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7130,
+    "ReviewId": 705080
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7331,
+    "ReviewId": 728249
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 7347,
+    "ReviewId": 726582
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7389,
+    "ReviewId": 732564
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7400,
+    "ReviewId": 736931
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 7524,
+    "ReviewId": 745074
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7649,
+    "ReviewId": 759356
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7677,
+    "ReviewId": 764334
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7697,
+    "ReviewId": 765839
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 7757,
+    "ReviewId": 767978
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7778,
+    "ReviewId": 770870
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7784,
+    "ReviewId": 773153
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7794,
+    "ReviewId": 774648
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7800,
+    "ReviewId": 775644
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 7816,
+    "ReviewId": 778135
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 7913,
+    "ReviewId": 784469
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 8038,
+    "ReviewId": 799147
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 8046,
+    "ReviewId": 799056
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8068,
+    "ReviewId": 803038
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8226,
+    "ReviewId": 815274
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8229,
+    "ReviewId": 819435
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8346,
+    "ReviewId": 826581
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8435,
+    "ReviewId": 839738
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8462,
+    "ReviewId": 841151
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8522,
+    "ReviewId": 848537
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 8562,
+    "ReviewId": 852933
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 8583,
+    "ReviewId": 852261
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8713,
+    "ReviewId": 866449
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 8734,
+    "ReviewId": 866371
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8775,
+    "ReviewId": 873342
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 8849,
+    "ReviewId": 880940
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8872,
+    "ReviewId": 884230
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 8977,
+    "ReviewId": 892948
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 9184,
+    "ReviewId": 913351
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 9220,
+    "ReviewId": 918337
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 9377,
+    "ReviewId": 932453
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 9394,
+    "ReviewId": 934450
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 9440,
+    "ReviewId": 935684
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 9445,
+    "ReviewId": 936184
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 9549,
+    "ReviewId": 951039
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 9643,
+    "ReviewId": 961330
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 9645,
+    "ReviewId": 959550
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 9658,
+    "ReviewId": 961741
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 9662,
+    "ReviewId": 961547
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 9683,
+    "ReviewId": 964241
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 9816,
+    "ReviewId": 978333
+  },
+  {
+    "BookId": "AD222",
+    "Value": 1,
+    "ReviewerId": 9846,
+    "ReviewId": 976779
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 9889,
+    "ReviewId": 981772
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 10032,
+    "ReviewId": 994983
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 10467,
+    "ReviewId": 1039473
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 10587,
+    "ReviewId": 1052562
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 10663,
+    "ReviewId": 1060558
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 10682,
+    "ReviewId": 1063151
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 10719,
+    "ReviewId": 1064970
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 10772,
+    "ReviewId": 1071458
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 10841,
+    "ReviewId": 1075289
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 10883,
+    "ReviewId": 1083647
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 10933,
+    "ReviewId": 1088845
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 10987,
+    "ReviewId": 1090978
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11037,
+    "ReviewId": 1095087
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11052,
+    "ReviewId": 1099359
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11056,
+    "ReviewId": 1100056
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 11057,
+    "ReviewId": 1096889
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11131,
+    "ReviewId": 1106764
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 11148,
+    "ReviewId": 1109751
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 11226,
+    "ReviewId": 1118739
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11380,
+    "ReviewId": 1133347
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 11535,
+    "ReviewId": 1144689
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 11581,
+    "ReviewId": 1150180
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11589,
+    "ReviewId": 1154247
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11595,
+    "ReviewId": 1152570
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 11623,
+    "ReviewId": 1159033
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 11693,
+    "ReviewId": 1163162
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 11743,
+    "ReviewId": 1169647
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 11768,
+    "ReviewId": 1173632
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 11772,
+    "ReviewId": 1168488
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 11837,
+    "ReviewId": 1174889
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 11858,
+    "ReviewId": 1179860
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12123,
+    "ReviewId": 1208142
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12136,
+    "ReviewId": 1208254
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 12160,
+    "ReviewId": 1212337
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12286,
+    "ReviewId": 1220086
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12310,
+    "ReviewId": 1227238
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12324,
+    "ReviewId": 1226262
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12331,
+    "ReviewId": 1225576
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12364,
+    "ReviewId": 1228678
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12422,
+    "ReviewId": 1237250
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12452,
+    "ReviewId": 1238864
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 12485,
+    "ReviewId": 1243154
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12520,
+    "ReviewId": 1244278
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 12565,
+    "ReviewId": 1247788
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12680,
+    "ReviewId": 1261367
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 12694,
+    "ReviewId": 1263460
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 12718,
+    "ReviewId": 1265365
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12769,
+    "ReviewId": 1271851
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12787,
+    "ReviewId": 1273750
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12858,
+    "ReviewId": 1278474
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12896,
+    "ReviewId": 1281383
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12916,
+    "ReviewId": 1288036
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 12930,
+    "ReviewId": 1285377
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 12967,
+    "ReviewId": 1291948
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13033,
+    "ReviewId": 1298548
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 13123,
+    "ReviewId": 1306558
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13126,
+    "ReviewId": 1305967
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13133,
+    "ReviewId": 1305479
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13155,
+    "ReviewId": 1306986
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 13209,
+    "ReviewId": 1317138
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13230,
+    "ReviewId": 1319238
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 13269,
+    "ReviewId": 1322445
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13271,
+    "ReviewId": 1323833
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13285,
+    "ReviewId": 1324540
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13312,
+    "ReviewId": 1323676
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13320,
+    "ReviewId": 1325862
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13338,
+    "ReviewId": 1329345
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13340,
+    "ReviewId": 1326080
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13358,
+    "ReviewId": 1332236
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13371,
+    "ReviewId": 1330863
+  },
+  {
+    "BookId": "AD222",
+    "Value": 1,
+    "ReviewerId": 13390,
+    "ReviewId": 1330288
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13453,
+    "ReviewId": 1340251
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13483,
+    "ReviewId": 1339588
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13507,
+    "ReviewId": 1345354
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13632,
+    "ReviewId": 1358745
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13640,
+    "ReviewId": 1355288
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13655,
+    "ReviewId": 1360253
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13712,
+    "ReviewId": 1366745
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13751,
+    "ReviewId": 1369853
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 13912,
+    "ReviewId": 1384864
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 13924,
+    "ReviewId": 1385569
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13941,
+    "ReviewId": 1385784
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 13966,
+    "ReviewId": 1392244
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 14037,
+    "ReviewId": 1395681
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 14056,
+    "ReviewId": 1400056
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 14082,
+    "ReviewId": 1403250
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14149,
+    "ReviewId": 1409752
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14182,
+    "ReviewId": 1413646
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 14198,
+    "ReviewId": 1415246
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 14295,
+    "ReviewId": 1425045
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14320,
+    "ReviewId": 1428832
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 14442,
+    "ReviewId": 1440141
+  },
+  {
+    "BookId": "AD222",
+    "Value": 2,
+    "ReviewerId": 14491,
+    "ReviewId": 1440190
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14492,
+    "ReviewId": 1442270
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14507,
+    "ReviewId": 1445849
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14519,
+    "ReviewId": 1447346
+  },
+  {
+    "BookId": "AD222",
+    "Value": 3,
+    "ReviewerId": 14586,
+    "ReviewId": 1455036
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14744,
+    "ReviewId": 1469153
+  },
+  {
+    "BookId": "AD222",
+    "Value": 5,
+    "ReviewerId": 14769,
+    "ReviewId": 1469970
+  },
+  {
+    "BookId": "AD222",
+    "Value": 4,
+    "ReviewerId": 14883,
+    "ReviewId": 1484934
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 48348,
+    "ReviewId": 4827870
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48352,
+    "ReviewId": 4828468
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48398,
+    "ReviewId": 4835642
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48430,
+    "ReviewId": 4839733
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48475,
+    "ReviewId": 4840075
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48501,
+    "ReviewId": 4842081
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48514,
+    "ReviewId": 4846846
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48523,
+    "ReviewId": 4848043
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48562,
+    "ReviewId": 4853032
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48564,
+    "ReviewId": 4849569
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48571,
+    "ReviewId": 4853338
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48577,
+    "ReviewId": 4853146
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48593,
+    "ReviewId": 4850588
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48612,
+    "ReviewId": 4853181
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48620,
+    "ReviewId": 4854971
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 48627,
+    "ReviewId": 4853889
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48641,
+    "ReviewId": 4856972
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48682,
+    "ReviewId": 4862656
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48686,
+    "ReviewId": 4861769
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48694,
+    "ReviewId": 4864450
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 48696,
+    "ReviewId": 4865739
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48712,
+    "ReviewId": 4862389
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 48713,
+    "ReviewId": 4862390
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48721,
+    "ReviewId": 4865665
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48727,
+    "ReviewId": 4867156
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48728,
+    "ReviewId": 4864484
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48738,
+    "ReviewId": 4868058
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48742,
+    "ReviewId": 4865389
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48769,
+    "ReviewId": 4871554
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48786,
+    "ReviewId": 4874838
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48827,
+    "ReviewId": 4876859
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 48858,
+    "ReviewId": 4877583
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48868,
+    "ReviewId": 4881850
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48873,
+    "ReviewId": 4879875
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48879,
+    "ReviewId": 4881564
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48893,
+    "ReviewId": 4881182
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48903,
+    "ReviewId": 4884558
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48916,
+    "ReviewId": 4883680
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48965,
+    "ReviewId": 4891253
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 48984,
+    "ReviewId": 4890579
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 48991,
+    "ReviewId": 4892764
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 49004,
+    "ReviewId": 4896638
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49005,
+    "ReviewId": 4894362
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 49015,
+    "ReviewId": 4896946
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49044,
+    "ReviewId": 4898262
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49067,
+    "ReviewId": 4898582
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49080,
+    "ReviewId": 4900278
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49093,
+    "ReviewId": 4905736
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49101,
+    "ReviewId": 4904853
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49134,
+    "ReviewId": 4906272
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49155,
+    "ReviewId": 4910946
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49170,
+    "ReviewId": 4911951
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49241,
+    "ReviewId": 4919942
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49249,
+    "ReviewId": 4916881
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 49260,
+    "ReviewId": 4918179
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49269,
+    "ReviewId": 4921950
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49308,
+    "ReviewId": 4927533
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49327,
+    "ReviewId": 4926760
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49349,
+    "ReviewId": 4931930
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49384,
+    "ReviewId": 4931074
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49397,
+    "ReviewId": 4932077
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49435,
+    "ReviewId": 4939540
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49450,
+    "ReviewId": 4938961
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49457,
+    "ReviewId": 4939859
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49512,
+    "ReviewId": 4946250
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49524,
+    "ReviewId": 4943688
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49542,
+    "ReviewId": 4945290
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49567,
+    "ReviewId": 4950166
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 49599,
+    "ReviewId": 4952772
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49600,
+    "ReviewId": 4956040
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49615,
+    "ReviewId": 4955164
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49624,
+    "ReviewId": 4953589
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49631,
+    "ReviewId": 4956566
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49665,
+    "ReviewId": 4958481
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49721,
+    "ReviewId": 4963289
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49734,
+    "ReviewId": 4970232
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49740,
+    "ReviewId": 4971030
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49750,
+    "ReviewId": 4967971
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 49770,
+    "ReviewId": 4972248
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49773,
+    "ReviewId": 4971162
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 49791,
+    "ReviewId": 4973853
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49805,
+    "ReviewId": 4974560
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49824,
+    "ReviewId": 4974777
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49877,
+    "ReviewId": 4981067
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49916,
+    "ReviewId": 4984967
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 49950,
+    "ReviewId": 4990644
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50005,
+    "ReviewId": 4995649
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50011,
+    "ReviewId": 4992883
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50043,
+    "ReviewId": 5000637
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50059,
+    "ReviewId": 4998079
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50068,
+    "ReviewId": 5001751
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50107,
+    "ReviewId": 5006740
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 50110,
+    "ReviewId": 5004268
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50113,
+    "ReviewId": 5008033
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50128,
+    "ReviewId": 5007256
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50134,
+    "ReviewId": 5004490
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50167,
+    "ReviewId": 5010364
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50168,
+    "ReviewId": 5011454
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50173,
+    "ReviewId": 5012548
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50181,
+    "ReviewId": 5013744
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50196,
+    "ReviewId": 5014056
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50204,
+    "ReviewId": 5017034
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50207,
+    "ReviewId": 5012978
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50236,
+    "ReviewId": 5014888
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50237,
+    "ReviewId": 5015978
+  },
+  {
+    "BookId": "AK974",
+    "Value": 2,
+    "ReviewerId": 50238,
+    "ReviewId": 5018949
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50284,
+    "ReviewId": 5023054
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50309,
+    "ReviewId": 5027831
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50328,
+    "ReviewId": 5026761
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 50354,
+    "ReviewId": 5026787
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50360,
+    "ReviewId": 5032238
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 50382,
+    "ReviewId": 5033151
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50409,
+    "ReviewId": 5034663
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50422,
+    "ReviewId": 5037349
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50423,
+    "ReviewId": 5034776
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 50424,
+    "ReviewId": 5039133
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50433,
+    "ReviewId": 5038449
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50445,
+    "ReviewId": 5040936
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50455,
+    "ReviewId": 5040154
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50493,
+    "ReviewId": 5045043
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50515,
+    "ReviewId": 5045659
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50533,
+    "ReviewId": 5047360
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50540,
+    "ReviewId": 5049446
+  },
+  {
+    "BookId": "AK974",
+    "Value": 1,
+    "ReviewerId": 50547,
+    "ReviewId": 5049552
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 50565,
+    "ReviewId": 5048283
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50571,
+    "ReviewId": 5049576
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50658,
+    "ReviewId": 5059167
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50671,
+    "ReviewId": 5058685
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50686,
+    "ReviewId": 5065333
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50695,
+    "ReviewId": 5064847
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50710,
+    "ReviewId": 5062783
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50789,
+    "ReviewId": 5074841
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50795,
+    "ReviewId": 5073362
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50808,
+    "ReviewId": 5077830
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50834,
+    "ReviewId": 5078153
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50839,
+    "ReviewId": 5078554
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50849,
+    "ReviewId": 5079653
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50854,
+    "ReviewId": 5081143
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50874,
+    "ReviewId": 5082351
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50881,
+    "ReviewId": 5079883
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50886,
+    "ReviewId": 5084541
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50908,
+    "ReviewId": 5085751
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50928,
+    "ReviewId": 5083989
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 50950,
+    "ReviewId": 5090941
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50968,
+    "ReviewId": 5089969
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 50973,
+    "ReviewId": 5092944
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51001,
+    "ReviewId": 5092576
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51011,
+    "ReviewId": 5093477
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51014,
+    "ReviewId": 5094668
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51019,
+    "ReviewId": 5096158
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51022,
+    "ReviewId": 5099230
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51024,
+    "ReviewId": 5094579
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51037,
+    "ReviewId": 5099344
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51044,
+    "ReviewId": 5100836
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51050,
+    "ReviewId": 5097080
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51069,
+    "ReviewId": 5098386
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51080,
+    "ReviewId": 5099783
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51100,
+    "ReviewId": 5103763
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51107,
+    "ReviewId": 5103869
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51120,
+    "ReviewId": 5105268
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51136,
+    "ReviewId": 5108452
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51145,
+    "ReviewId": 5110045
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51158,
+    "ReviewId": 5108177
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51162,
+    "ReviewId": 5112042
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51190,
+    "ReviewId": 5114248
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51226,
+    "ReviewId": 5118343
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51227,
+    "ReviewId": 5113889
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51230,
+    "ReviewId": 5115179
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51250,
+    "ReviewId": 5117377
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51258,
+    "ReviewId": 5120157
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51270,
+    "ReviewId": 5120070
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51298,
+    "ReviewId": 5123464
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51322,
+    "ReviewId": 5124280
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51330,
+    "ReviewId": 5124783
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51343,
+    "ReviewId": 5129647
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51345,
+    "ReviewId": 5129451
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51349,
+    "ReviewId": 5128861
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51361,
+    "ReviewId": 5129467
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51387,
+    "ReviewId": 5129889
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51414,
+    "ReviewId": 5136450
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51451,
+    "ReviewId": 5141536
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51464,
+    "ReviewId": 5142539
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51467,
+    "ReviewId": 5143037
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51474,
+    "ReviewId": 5144430
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51477,
+    "ReviewId": 5138790
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51496,
+    "ReviewId": 5143066
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51505,
+    "ReviewId": 5142085
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51512,
+    "ReviewId": 5143973
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51531,
+    "ReviewId": 5147160
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51536,
+    "ReviewId": 5148848
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51549,
+    "ReviewId": 5147376
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51570,
+    "ReviewId": 5151258
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51585,
+    "ReviewId": 5150976
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51596,
+    "ReviewId": 5155937
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51600,
+    "ReviewId": 5155842
+  },
+  {
+    "BookId": "AK974",
+    "Value": 2,
+    "ReviewerId": 51609,
+    "ReviewId": 5156247
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51625,
+    "ReviewId": 5159530
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51657,
+    "ReviewId": 5157978
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51672,
+    "ReviewId": 5163141
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51692,
+    "ReviewId": 5160587
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51693,
+    "ReviewId": 5166231
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51699,
+    "ReviewId": 5164455
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51700,
+    "ReviewId": 5161585
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51705,
+    "ReviewId": 5166936
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51707,
+    "ReviewId": 5164958
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51719,
+    "ReviewId": 5163485
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51745,
+    "ReviewId": 5166976
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51760,
+    "ReviewId": 5169763
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51781,
+    "ReviewId": 5171566
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51796,
+    "ReviewId": 5176333
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51806,
+    "ReviewId": 5174957
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51813,
+    "ReviewId": 5177835
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51817,
+    "ReviewId": 5172889
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51835,
+    "ReviewId": 5180431
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51839,
+    "ReviewId": 5177465
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51840,
+    "ReviewId": 5181030
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51863,
+    "ReviewId": 5179370
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51864,
+    "ReviewId": 5179173
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51866,
+    "ReviewId": 5177690
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51867,
+    "ReviewId": 5179572
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51869,
+    "ReviewId": 5178881
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51874,
+    "ReviewId": 5181757
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51877,
+    "ReviewId": 5181958
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51878,
+    "ReviewId": 5184137
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51886,
+    "ReviewId": 5181373
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51910,
+    "ReviewId": 5187436
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51914,
+    "ReviewId": 5186252
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51918,
+    "ReviewId": 5186949
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 51943,
+    "ReviewId": 5190142
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51948,
+    "ReviewId": 5187870
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51958,
+    "ReviewId": 5190256
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51960,
+    "ReviewId": 5192139
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51974,
+    "ReviewId": 5192549
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51983,
+    "ReviewId": 5192261
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51984,
+    "ReviewId": 5191272
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 51985,
+    "ReviewId": 5191273
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 51996,
+    "ReviewId": 5190789
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52003,
+    "ReviewId": 5195647
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52057,
+    "ReviewId": 5202334
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52066,
+    "ReviewId": 5202244
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52092,
+    "ReviewId": 5204151
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52123,
+    "ReviewId": 5205370
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52144,
+    "ReviewId": 5208955
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52178,
+    "ReviewId": 5213642
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52208,
+    "ReviewId": 5217236
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52215,
+    "ReviewId": 5217540
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52219,
+    "ReviewId": 5216059
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52225,
+    "ReviewId": 5215966
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52279,
+    "ReviewId": 5224930
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52283,
+    "ReviewId": 5219984
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52293,
+    "ReviewId": 5222172
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52298,
+    "ReviewId": 5223167
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52306,
+    "ReviewId": 5222779
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52334,
+    "ReviewId": 5227361
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52352,
+    "ReviewId": 5226290
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52363,
+    "ReviewId": 5230954
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52382,
+    "ReviewId": 5231765
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52398,
+    "ReviewId": 5231781
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52417,
+    "ReviewId": 5238235
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52434,
+    "ReviewId": 5236668
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52492,
+    "ReviewId": 5241379
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52499,
+    "ReviewId": 5245247
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52520,
+    "ReviewId": 5245763
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52527,
+    "ReviewId": 5247552
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52543,
+    "ReviewId": 5247271
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52561,
+    "ReviewId": 5247784
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52581,
+    "ReviewId": 5249784
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52587,
+    "ReviewId": 5252958
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52594,
+    "ReviewId": 5253856
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52612,
+    "ReviewId": 5256052
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52619,
+    "ReviewId": 5252990
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52620,
+    "ReviewId": 5257248
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52641,
+    "ReviewId": 5255685
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52665,
+    "ReviewId": 5257689
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52666,
+    "ReviewId": 5261749
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52667,
+    "ReviewId": 5259968
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52678,
+    "ReviewId": 5259088
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52685,
+    "ReviewId": 5264144
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52688,
+    "ReviewId": 5260385
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52714,
+    "ReviewId": 5265658
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52721,
+    "ReviewId": 5264774
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52750,
+    "ReviewId": 5266288
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52776,
+    "ReviewId": 5270175
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52799,
+    "ReviewId": 5276435
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52805,
+    "ReviewId": 5273570
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52823,
+    "ReviewId": 5273984
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52837,
+    "ReviewId": 5278453
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52851,
+    "ReviewId": 5280348
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52852,
+    "ReviewId": 5280745
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52867,
+    "ReviewId": 5283037
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52874,
+    "ReviewId": 5278589
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52910,
+    "ReviewId": 5284367
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52915,
+    "ReviewId": 5284669
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52918,
+    "ReviewId": 5283781
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 52931,
+    "ReviewId": 5286764
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52934,
+    "ReviewId": 5286173
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52963,
+    "ReviewId": 5291944
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 52975,
+    "ReviewId": 5294035
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 52998,
+    "ReviewId": 5294553
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53004,
+    "ReviewId": 5297232
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53021,
+    "ReviewId": 5295368
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53035,
+    "ReviewId": 5298649
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53057,
+    "ReviewId": 5296889
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53069,
+    "ReviewId": 5300168
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53097,
+    "ReviewId": 5303859
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53104,
+    "ReviewId": 5306440
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53132,
+    "ReviewId": 5305379
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53138,
+    "ReviewId": 5306969
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 53156,
+    "ReviewId": 5312432
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53160,
+    "ReviewId": 5311149
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53164,
+    "ReviewId": 5310361
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53194,
+    "ReviewId": 5314549
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53227,
+    "ReviewId": 5316562
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53228,
+    "ReviewId": 5319731
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53242,
+    "ReviewId": 5318656
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53264,
+    "ReviewId": 5320361
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53276,
+    "ReviewId": 5319383
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53287,
+    "ReviewId": 5320879
+  },
+  {
+    "BookId": "AK974",
+    "Value": 3,
+    "ReviewerId": 53288,
+    "ReviewId": 5323652
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53306,
+    "ReviewId": 5325254
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53331,
+    "ReviewId": 5328546
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53334,
+    "ReviewId": 5325975
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53345,
+    "ReviewId": 5331530
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53351,
+    "ReviewId": 5329358
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53353,
+    "ReviewId": 5327182
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53365,
+    "ReviewId": 5331847
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53384,
+    "ReviewId": 5333054
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53386,
+    "ReviewId": 5333947
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53388,
+    "ReviewId": 5334840
+  },
+  {
+    "BookId": "AK974",
+    "Value": 4,
+    "ReviewerId": 53395,
+    "ReviewId": 5334451
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53402,
+    "ReviewId": 5336240
+  },
+  {
+    "BookId": "AK974",
+    "Value": 5,
+    "ReviewerId": 53404,
+    "ReviewId": 5335351
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 148,
+    "ReviewId": 8167
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 265,
+    "ReviewId": 18679
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 286,
+    "ReviewId": 21670
+  },
+  {
+    "BookId": "AM124",
+    "Value": 1,
+    "ReviewerId": 421,
+    "ReviewId": 38734
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 520,
+    "ReviewId": 47743
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 551,
+    "ReviewId": 47477
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 697,
+    "ReviewId": 65344
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 756,
+    "ReviewId": 67482
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 896,
+    "ReviewId": 84650
+  },
+  {
+    "BookId": "AM124",
+    "Value": 1,
+    "ReviewerId": 1027,
+    "ReviewId": 95176
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 1035,
+    "ReviewId": 99738
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 1515,
+    "ReviewId": 147045
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 1547,
+    "ReviewId": 149651
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 1596,
+    "ReviewId": 156333
+  },
+  {
+    "BookId": "AM124",
+    "Value": 1,
+    "ReviewerId": 1889,
+    "ReviewId": 185336
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 1909,
+    "ReviewId": 187336
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 1963,
+    "ReviewId": 187984
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 2131,
+    "ReviewId": 207655
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 2176,
+    "ReviewId": 212155
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 2425,
+    "ReviewId": 234382
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 2595,
+    "ReviewId": 255837
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 2629,
+    "ReviewId": 256366
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 2643,
+    "ReviewId": 261330
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 2715,
+    "ReviewId": 266451
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 3088,
+    "ReviewId": 302167
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 3116,
+    "ReviewId": 305561
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 3566,
+    "ReviewId": 349076
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 3742,
+    "ReviewId": 365785
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 4336,
+    "ReviewId": 426274
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 5053,
+    "ReviewId": 496390
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 5664,
+    "ReviewId": 560262
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 5891,
+    "ReviewId": 582566
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 5937,
+    "ReviewId": 588354
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 6616,
+    "ReviewId": 657442
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 6689,
+    "ReviewId": 661871
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 7111,
+    "ReviewId": 708031
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 7771,
+    "ReviewId": 771952
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 7834,
+    "ReviewId": 777757
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 8404,
+    "ReviewId": 833569
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 8718,
+    "ReviewId": 864672
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 8835,
+    "ReviewId": 877560
+  },
+  {
+    "BookId": "AM124",
+    "Value": 1,
+    "ReviewerId": 8840,
+    "ReviewId": 880238
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 8931,
+    "ReviewId": 889437
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 9167,
+    "ReviewId": 908384
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 9176,
+    "ReviewId": 910274
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 9246,
+    "ReviewId": 921531
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 9466,
+    "ReviewId": 941848
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 9514,
+    "ReviewId": 946252
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 9584,
+    "ReviewId": 951668
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 9629,
+    "ReviewId": 956168
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 9733,
+    "ReviewId": 965875
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 9783,
+    "ReviewId": 972261
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 9799,
+    "ReviewId": 971584
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 9804,
+    "ReviewId": 974163
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 9814,
+    "ReviewId": 972490
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 10509,
+    "ReviewId": 1044861
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 10727,
+    "ReviewId": 1068938
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 10861,
+    "ReviewId": 1082338
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 11438,
+    "ReviewId": 1137068
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 11608,
+    "ReviewId": 1152880
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 11807,
+    "ReviewId": 1174760
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 11936,
+    "ReviewId": 1188452
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 12186,
+    "ReviewId": 1214145
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 12300,
+    "ReviewId": 1224555
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 12488,
+    "ReviewId": 1244246
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 12658,
+    "ReviewId": 1258672
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 12712,
+    "ReviewId": 1267438
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 12782,
+    "ReviewId": 1272656
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 12797,
+    "ReviewId": 1272275
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 13047,
+    "ReviewId": 1300245
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 13244,
+    "ReviewId": 1320242
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 13520,
+    "ReviewId": 1346258
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 13580,
+    "ReviewId": 1351169
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 13911,
+    "ReviewId": 1384962
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 13939,
+    "ReviewId": 1387564
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 14254,
+    "ReviewId": 1420648
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 14256,
+    "ReviewId": 1417878
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 14747,
+    "ReviewId": 1470344
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 14956,
+    "ReviewId": 1489066
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 14966,
+    "ReviewId": 1487888
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 15075,
+    "ReviewId": 1498887
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 15120,
+    "ReviewId": 1507545
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 15183,
+    "ReviewId": 1509489
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 15264,
+    "ReviewId": 1523034
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 15316,
+    "ReviewId": 1524868
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 15359,
+    "ReviewId": 1529663
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 15751,
+    "ReviewId": 1568467
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 51495,
+    "ReviewId": 5145936
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 51915,
+    "ReviewId": 5185956
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 52018,
+    "ReviewId": 5197246
+  },
+  {
+    "BookId": "AM124",
+    "Value": 2,
+    "ReviewerId": 52080,
+    "ReviewId": 5201268
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 52228,
+    "ReviewId": 5216761
+  },
+  {
+    "BookId": "AM124",
+    "Value": 4,
+    "ReviewerId": 52479,
+    "ReviewId": 5240178
+  },
+  {
+    "BookId": "AM124",
+    "Value": 3,
+    "ReviewerId": 53068,
+    "ReviewId": 5302147
+  },
+  {
+    "BookId": "AM124",
+    "Value": 5,
+    "ReviewerId": 53087,
+    "ReviewId": 5300285
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 207,
+    "ReviewId": 14067
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 447,
+    "ReviewId": 38562
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 479,
+    "ReviewId": 43445
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 554,
+    "ReviewId": 51737
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 653,
+    "ReviewId": 62330
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 663,
+    "ReviewId": 62439
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 690,
+    "ReviewId": 61773
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 784,
+    "ReviewId": 74737
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 804,
+    "ReviewId": 73668
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 928,
+    "ReviewId": 88444
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 961,
+    "ReviewId": 89566
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 978,
+    "ReviewId": 92751
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1064,
+    "ReviewId": 102539
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1191,
+    "ReviewId": 116031
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 1205,
+    "ReviewId": 115253
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1306,
+    "ReviewId": 122086
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 1343,
+    "ReviewId": 129647
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 1464,
+    "ReviewId": 142341
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1485,
+    "ReviewId": 142560
+  },
+  {
+    "BookId": "AY135",
+    "Value": 1,
+    "ReviewerId": 1504,
+    "ReviewId": 142084
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1609,
+    "ReviewId": 155257
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 1625,
+    "ReviewId": 158936
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 1740,
+    "ReviewId": 169941
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 1744,
+    "ReviewId": 170143
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 1758,
+    "ReviewId": 170454
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 1798,
+    "ReviewId": 171187
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 1881,
+    "ReviewId": 183249
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 1893,
+    "ReviewId": 184152
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2006,
+    "ReviewId": 194759
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 2012,
+    "ReviewId": 192488
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 2035,
+    "ReviewId": 195778
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2112,
+    "ReviewId": 207141
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 2124,
+    "ReviewId": 204084
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 2210,
+    "ReviewId": 216149
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 2263,
+    "ReviewId": 220459
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2285,
+    "ReviewId": 223946
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2469,
+    "ReviewId": 240267
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 2598,
+    "ReviewId": 252474
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2709,
+    "ReviewId": 265752
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 2735,
+    "ReviewId": 269837
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2768,
+    "ReviewId": 270266
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 2816,
+    "ReviewId": 277838
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 2885,
+    "ReviewId": 282164
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3097,
+    "ReviewId": 306136
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3110,
+    "ReviewId": 304763
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 3141,
+    "ReviewId": 310041
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3196,
+    "ReviewId": 311284
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3218,
+    "ReviewId": 312989
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 3339,
+    "ReviewId": 325683
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3372,
+    "ReviewId": 331557
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3382,
+    "ReviewId": 334735
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3444,
+    "ReviewId": 338163
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 3519,
+    "ReviewId": 348138
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3654,
+    "ReviewId": 360252
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3693,
+    "ReviewId": 361677
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3696,
+    "ReviewId": 365838
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 3820,
+    "ReviewId": 376555
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 3864,
+    "ReviewId": 380955
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 3989,
+    "ReviewId": 391277
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 4018,
+    "ReviewId": 397939
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 4030,
+    "ReviewId": 398050
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 4040,
+    "ReviewId": 398456
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 4060,
+    "ReviewId": 402040
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 4147,
+    "ReviewId": 410146
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 4282,
+    "ReviewId": 424834
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 7542,
+    "ReviewId": 745587
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 7571,
+    "ReviewId": 749576
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 7603,
+    "ReviewId": 757132
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 7826,
+    "ReviewId": 774284
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 7896,
+    "ReviewId": 786135
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 7931,
+    "ReviewId": 784487
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8006,
+    "ReviewId": 792284
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8021,
+    "ReviewId": 793982
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8045,
+    "ReviewId": 800045
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 8085,
+    "ReviewId": 801966
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 8139,
+    "ReviewId": 808356
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 8146,
+    "ReviewId": 809650
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8173,
+    "ReviewId": 811558
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 8237,
+    "ReviewId": 818057
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8246,
+    "ReviewId": 821234
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8249,
+    "ReviewId": 819455
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8254,
+    "ReviewId": 821836
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8278,
+    "ReviewId": 822652
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8280,
+    "ReviewId": 819882
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8282,
+    "ReviewId": 820676
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8460,
+    "ReviewId": 839466
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8463,
+    "ReviewId": 837786
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8484,
+    "ReviewId": 844044
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8550,
+    "ReviewId": 846486
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8632,
+    "ReviewId": 855280
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 8650,
+    "ReviewId": 858565
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8702,
+    "ReviewId": 863765
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 8722,
+    "ReviewId": 864478
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8793,
+    "ReviewId": 874251
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8797,
+    "ReviewId": 872374
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 8889,
+    "ReviewId": 882861
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 8899,
+    "ReviewId": 881386
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 8956,
+    "ReviewId": 886789
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9021,
+    "ReviewId": 894576
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9040,
+    "ReviewId": 896773
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9064,
+    "ReviewId": 900460
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9131,
+    "ReviewId": 909932
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9145,
+    "ReviewId": 909451
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9156,
+    "ReviewId": 911244
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9213,
+    "ReviewId": 915063
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 9244,
+    "ReviewId": 919252
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9309,
+    "ReviewId": 925356
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9322,
+    "ReviewId": 927448
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9329,
+    "ReviewId": 928643
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9415,
+    "ReviewId": 933481
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9464,
+    "ReviewId": 941747
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9467,
+    "ReviewId": 941948
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 9479,
+    "ReviewId": 941366
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9557,
+    "ReviewId": 948869
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9604,
+    "ReviewId": 957133
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9669,
+    "ReviewId": 959376
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9718,
+    "ReviewId": 967543
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9755,
+    "ReviewId": 968570
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9800,
+    "ReviewId": 973763
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 9852,
+    "ReviewId": 980349
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 9914,
+    "ReviewId": 985064
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 9971,
+    "ReviewId": 992744
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10110,
+    "ReviewId": 1007238
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10283,
+    "ReviewId": 1024241
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10284,
+    "ReviewId": 1022262
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10502,
+    "ReviewId": 1041587
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10504,
+    "ReviewId": 1045747
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10516,
+    "ReviewId": 1043977
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10541,
+    "ReviewId": 1046576
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10570,
+    "ReviewId": 1048783
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10603,
+    "ReviewId": 1057132
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10615,
+    "ReviewId": 1054867
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10623,
+    "ReviewId": 1057251
+  },
+  {
+    "BookId": "AY135",
+    "Value": 2,
+    "ReviewerId": 10626,
+    "ReviewId": 1057551
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10662,
+    "ReviewId": 1063032
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10664,
+    "ReviewId": 1059371
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10714,
+    "ReviewId": 1064767
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10792,
+    "ReviewId": 1073161
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10808,
+    "ReviewId": 1075652
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 10820,
+    "ReviewId": 1078238
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10876,
+    "ReviewId": 1078888
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10910,
+    "ReviewId": 1083773
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10922,
+    "ReviewId": 1084874
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 10928,
+    "ReviewId": 1084880
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10992,
+    "ReviewId": 1090686
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 10997,
+    "ReviewId": 1092176
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11014,
+    "ReviewId": 1098232
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11066,
+    "ReviewId": 1102046
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11086,
+    "ReviewId": 1100977
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11116,
+    "ReviewId": 1107442
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11124,
+    "ReviewId": 1106460
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11164,
+    "ReviewId": 1108282
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11225,
+    "ReviewId": 1117451
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11226,
+    "ReviewId": 1116264
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11244,
+    "ReviewId": 1118559
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11245,
+    "ReviewId": 1116778
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11287,
+    "ReviewId": 1120087
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11312,
+    "ReviewId": 1123082
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11335,
+    "ReviewId": 1128946
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11342,
+    "ReviewId": 1128161
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11413,
+    "ReviewId": 1134073
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11519,
+    "ReviewId": 1145465
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11548,
+    "ReviewId": 1148266
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11593,
+    "ReviewId": 1150390
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11598,
+    "ReviewId": 1153167
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11642,
+    "ReviewId": 1156874
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11659,
+    "ReviewId": 1158970
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11730,
+    "ReviewId": 1167060
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11734,
+    "ReviewId": 1166074
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11931,
+    "ReviewId": 1184982
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11943,
+    "ReviewId": 1187568
+  },
+  {
+    "BookId": "AY135",
+    "Value": 5,
+    "ReviewerId": 11947,
+    "ReviewId": 1189552
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11961,
+    "ReviewId": 1188972
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 11965,
+    "ReviewId": 1191253
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 11978,
+    "ReviewId": 1193345
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 12014,
+    "ReviewId": 1192490
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 12043,
+    "ReviewId": 1197073
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 12080,
+    "ReviewId": 1203545
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 12088,
+    "ReviewId": 1205236
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 12183,
+    "ReviewId": 1215330
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 12276,
+    "ReviewId": 1220373
+  },
+  {
+    "BookId": "AY135",
+    "Value": 3,
+    "ReviewerId": 12389,
+    "ReviewId": 1235930
+  },
+  {
+    "BookId": "AY135",
+    "Value": 4,
+    "ReviewerId": 12449,
+    "ReviewId": 1237574
+  }
+]

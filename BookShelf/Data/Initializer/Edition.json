@@ -1,0 +1,952 @@
+[
+  {
+    "ISBN": "989-28-79-70597-8",
+    "BookId": "TT359",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "02.06.2178",
+    "Pages": 277,
+    "PrintRunSize": 15,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-654-6930-3",
+    "BookId": "NP937",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "18.08.2178",
+    "Pages": 394,
+    "PrintRunSize": 6,
+    "Price": "30,99"
+  },
+  {
+    "ISBN": "989-28-79-52883-6",
+    "BookId": "PA169",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "08.09.2178",
+    "Pages": 384,
+    "PrintRunSize": 10,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-79-43574-5",
+    "BookId": "TM925",
+    "Format": "Graphic",
+    "PubId": "ESP",
+    "PublicationDate": "15.09.2178",
+    "Pages": 187,
+    "PrintRunSize": 8,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-654-5794-2",
+    "BookId": "HS107",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "29.09.2178",
+    "Pages": 640,
+    "PrintRunSize": 3,
+    "Price": "26,99"
+  },
+  {
+    "ISBN": "989-28-79-44730-4",
+    "BookId": "DR914",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "05.01.2179",
+    "Pages": 575,
+    "PrintRunSize": 4,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-654-5771-3",
+    "BookId": "HS107",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "12.01.2179",
+    "Pages": 631,
+    "PrintRunSize": 5,
+    "Price": "15,99"
+  },
+  {
+    "ISBN": "989-28-79-04510-4",
+    "BookId": "TT359",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "16.02.2179",
+    "Pages": 264,
+    "PrintRunSize": 25,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-18127-7",
+    "BookId": "AY135",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "24.04.2179",
+    "Pages": 704,
+    "PrintRunSize": 15,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-79-68089-3",
+    "BookId": "BB194",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "18.05.2179",
+    "Pages": 401,
+    "PrintRunSize": 10,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-22871-2",
+    "BookId": "TI225",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "13.07.2179",
+    "Pages": 452,
+    "PrintRunSize": 15,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-01991-4",
+    "BookId": "PA169",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "07.09.2179",
+    "Pages": 356,
+    "PrintRunSize": 16,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-654-0047-4",
+    "BookId": "NP937",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "18.04.2180",
+    "Pages": 371,
+    "PrintRunSize": 6,
+    "Price": "15,99"
+  },
+  {
+    "ISBN": "989-28-79-67891-3",
+    "BookId": "SS361",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "25.07.2180",
+    "Pages": 105,
+    "PrintRunSize": 14,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-654-2620-7",
+    "BookId": "NC652",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "12.09.2180",
+    "Pages": 390,
+    "PrintRunSize": 4,
+    "Price": "32,99"
+  },
+  {
+    "ISBN": "989-28-3705-054-6",
+    "BookId": "HP265",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "06.03.2181",
+    "Pages": 28,
+    "PrintRunSize": 18,
+    "Price": "7,99"
+  },
+  {
+    "ISBN": "989-28-79-45675-7",
+    "BookId": "SS361",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "03.07.2181",
+    "Pages": 105,
+    "PrintRunSize": 20,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-79-82749-6",
+    "BookId": "NR695",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "10.07.2181",
+    "Pages": 384,
+    "PrintRunSize": 5,
+    "Price": "22,99"
+  },
+  {
+    "ISBN": "989-28-79-30536-9",
+    "BookId": "NB483",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "26.07.2181",
+    "Pages": 311,
+    "PrintRunSize": 22,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-229-1404-4",
+    "BookId": "TS869",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "11.12.2181",
+    "Pages": 381,
+    "PrintRunSize": 11,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-229-7592-2",
+    "BookId": "MW621",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "05.03.2182",
+    "Pages": 362,
+    "PrintRunSize": 13,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-3705-222-9",
+    "BookId": "AK974",
+    "Format": "Trade paperback",
+    "PubId": "CHP",
+    "PublicationDate": "23.07.2182",
+    "Pages": 256,
+    "PrintRunSize": 35,
+    "Price": "11,99"
+  },
+  {
+    "ISBN": "989-28-79-69807-2",
+    "BookId": "NR695",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "24.09.2182",
+    "Pages": 414,
+    "PrintRunSize": 12,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-42728-3",
+    "BookId": "IA439",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "05.11.2182",
+    "Pages": 493,
+    "PrintRunSize": 20,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-654-7965-4",
+    "BookId": "WO506",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "17.12.2182",
+    "Pages": 288,
+    "PrintRunSize": 3,
+    "Price": "29,99"
+  },
+  {
+    "ISBN": "989-28-79-87459-9",
+    "BookId": "TH556",
+    "Format": "Graphic",
+    "PubId": "ESP",
+    "PublicationDate": "21.12.2182",
+    "Pages": 88,
+    "PrintRunSize": 3,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-229-6632-6",
+    "BookId": "WG715",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "14.02.2183",
+    "Pages": 423,
+    "PrintRunSize": 16,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-79-32105-5",
+    "BookId": "DY800",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "25.02.2183",
+    "Pages": 390,
+    "PrintRunSize": 29,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-71565-6",
+    "BookId": "TM925",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "25.02.2183",
+    "Pages": 819,
+    "PrintRunSize": 25,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-43841-8",
+    "BookId": "QQ737",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "01.04.2183",
+    "Pages": 373,
+    "PrintRunSize": 3,
+    "Price": "18,5"
+  },
+  {
+    "ISBN": "989-28-79-61125-5",
+    "BookId": "IA439",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "27.05.2183",
+    "Pages": 470,
+    "PrintRunSize": 40,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-654-0127-3",
+    "BookId": "WO506",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "09.12.2183",
+    "Pages": 295,
+    "PrintRunSize": 7,
+    "Price": "16,99"
+  },
+  {
+    "ISBN": "989-28-654-9826-6",
+    "BookId": "DE571",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "16.12.2183",
+    "Pages": 480,
+    "PrintRunSize": 4,
+    "Price": "28,99"
+  },
+  {
+    "ISBN": "989-28-654-8573-0",
+    "BookId": "TH143",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "13.01.2184",
+    "Pages": 598,
+    "PrintRunSize": 9,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-79-82125-8",
+    "BookId": "TH296",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "10.02.2184",
+    "Pages": 293,
+    "PrintRunSize": 10,
+    "Price": "22,99"
+  },
+  {
+    "ISBN": "989-28-79-14379-4",
+    "BookId": "QQ737",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "29.02.2184",
+    "Pages": 373,
+    "PrintRunSize": 42,
+    "Price": "11,99"
+  },
+  {
+    "ISBN": "989-28-654-6033-1",
+    "BookId": "TH143",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "04.01.2185",
+    "Pages": 598,
+    "PrintRunSize": 12,
+    "Price": "15,99"
+  },
+  {
+    "ISBN": "989-28-229-0197-6",
+    "BookId": "TO369",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "08.02.2185",
+    "Pages": 255,
+    "PrintRunSize": 20,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-654-4370-9",
+    "BookId": "DE571",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "29.03.2185",
+    "Pages": 480,
+    "PrintRunSize": 5,
+    "Price": "15,99"
+  },
+  {
+    "ISBN": "989-28-79-13801-1",
+    "BookId": "TM925",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "19.07.2185",
+    "Pages": 672,
+    "PrintRunSize": 71,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-3705-633-3",
+    "BookId": "IG460",
+    "Format": "Hardcover",
+    "PubId": "CHP",
+    "PublicationDate": "09.08.2185",
+    "Pages": 222,
+    "PrintRunSize": 3,
+    "Price": "19,99"
+  },
+  {
+    "ISBN": "989-28-3705-987-7",
+    "BookId": "AD222",
+    "Format": "Trade paperback",
+    "PubId": "CHP",
+    "PublicationDate": "22.09.2185",
+    "Pages": 188,
+    "PrintRunSize": 10,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-13871-4",
+    "BookId": "TH296",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "27.09.2185",
+    "Pages": 357,
+    "PrintRunSize": 25,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-05638-4",
+    "BookId": "TC188",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "15.11.2185",
+    "Pages": 485,
+    "PrintRunSize": 12,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-79-91028-0",
+    "BookId": "TM925",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "14.04.2186",
+    "Pages": 784,
+    "PrintRunSize": 50,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-3705-966-2",
+    "BookId": "HP265",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "02.05.2186",
+    "Pages": 31,
+    "PrintRunSize": 25,
+    "Price": "10,99"
+  },
+  {
+    "ISBN": "989-28-3705-607-4",
+    "BookId": "IG460",
+    "Format": "Trade paperback",
+    "PubId": "CHP",
+    "PublicationDate": "25.07.2186",
+    "Pages": 218,
+    "PrintRunSize": 10,
+    "Price": "11,99"
+  },
+  {
+    "ISBN": "989-28-229-5891-8",
+    "BookId": "LB510",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "25.07.2186",
+    "Pages": 380,
+    "PrintRunSize": 25,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-3705-592-3",
+    "BookId": "BF889",
+    "Format": "Board book",
+    "PubId": "CHP",
+    "PublicationDate": "10.10.2186",
+    "Pages": 12,
+    "PrintRunSize": 8,
+    "Price": "6,99"
+  },
+  {
+    "ISBN": "989-28-79-82197-5",
+    "BookId": "TC188",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "05.12.2186",
+    "Pages": 469,
+    "PrintRunSize": 20,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-79-22562-9",
+    "BookId": "ZT703",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "12.12.2186",
+    "Pages": 356,
+    "PrintRunSize": 18,
+    "Price": "20,99"
+  },
+  {
+    "ISBN": "989-28-79-40897-8",
+    "BookId": "PP866",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "20.02.2187",
+    "Pages": 656,
+    "PrintRunSize": 32,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-23015-9",
+    "BookId": "CH391",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "06.03.2187",
+    "Pages": 404,
+    "PrintRunSize": 2,
+    "Price": "18,5"
+  },
+  {
+    "ISBN": "989-28-3705-152-9",
+    "BookId": "BF889",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "03.04.2187",
+    "Pages": 20,
+    "PrintRunSize": 10,
+    "Price": "7,99"
+  },
+  {
+    "ISBN": "989-28-3705-583-1",
+    "BookId": "BC244",
+    "Format": "Board book",
+    "PubId": "CHP",
+    "PublicationDate": "08.05.2187",
+    "Pages": 13,
+    "PrintRunSize": 10,
+    "Price": "6,99"
+  },
+  {
+    "ISBN": "989-28-79-07610-8",
+    "BookId": "KA663",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "15.05.2187",
+    "Pages": 432,
+    "PrintRunSize": 25,
+    "Price": "27,99"
+  },
+  {
+    "ISBN": "989-28-3705-649-4",
+    "BookId": "BR858",
+    "Format": "Board book",
+    "PubId": "CHP",
+    "PublicationDate": "10.07.2187",
+    "Pages": 11,
+    "PrintRunSize": 10,
+    "Price": "6,99"
+  },
+  {
+    "ISBN": "989-28-79-51397-9",
+    "BookId": "TT773",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "28.08.2187",
+    "Pages": 292,
+    "PrintRunSize": 40,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-3705-775-0",
+    "BookId": "BC244",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "06.11.2187",
+    "Pages": 22,
+    "PrintRunSize": 15,
+    "Price": "7,99"
+  },
+  {
+    "ISBN": "989-28-79-05670-4",
+    "BookId": "ZT703",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "20.11.2187",
+    "Pages": 338,
+    "PrintRunSize": 26,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-3705-136-9",
+    "BookId": "BR858",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "08.01.2188",
+    "Pages": 15,
+    "PrintRunSize": 17,
+    "Price": "7,99"
+  },
+  {
+    "ISBN": "989-28-79-56856-6",
+    "BookId": "CC830",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "19.02.2188",
+    "Pages": 434,
+    "PrintRunSize": 25,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-26824-4",
+    "BookId": "TT773",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "08.04.2188",
+    "Pages": 280,
+    "PrintRunSize": 40,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-229-3157-7",
+    "BookId": "SE355",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "15.04.2188",
+    "Pages": 336,
+    "PrintRunSize": 35,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-3705-492-6",
+    "BookId": "CH391",
+    "Format": "Trade paperback",
+    "PubId": "CHP",
+    "PublicationDate": "24.04.2188",
+    "Pages": 404,
+    "PrintRunSize": 7,
+    "Price": "11,99"
+  },
+  {
+    "ISBN": "989-28-3705-138-3",
+    "BookId": "BF374",
+    "Format": "Board book",
+    "PubId": "CHP",
+    "PublicationDate": "27.05.2188",
+    "Pages": 12,
+    "PrintRunSize": 18,
+    "Price": "6,99"
+  },
+  {
+    "ISBN": "989-28-3705-007-2",
+    "BookId": "HP265",
+    "Format": "Board book",
+    "PubId": "CHP",
+    "PublicationDate": "03.06.2188",
+    "Pages": 16,
+    "PrintRunSize": 55,
+    "Price": "5,99"
+  },
+  {
+    "ISBN": "989-28-3705-369-1",
+    "BookId": "BF374",
+    "Format": "Paperback",
+    "PubId": "CHP",
+    "PublicationDate": "14.10.2188",
+    "Pages": 20,
+    "PrintRunSize": 18,
+    "Price": "7,99"
+  },
+  {
+    "ISBN": "989-28-79-23023-4",
+    "BookId": "PP866",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "21.10.2188",
+    "Pages": 792,
+    "PrintRunSize": 78,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-21991-8",
+    "BookId": "KA663",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "25.11.2188",
+    "Pages": 341,
+    "PrintRunSize": 45,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-68531-7",
+    "BookId": "ST303",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "06.01.2189",
+    "Pages": 437,
+    "PrintRunSize": 7,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-96705-5",
+    "BookId": "CC830",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "17.03.2189",
+    "Pages": 381,
+    "PrintRunSize": 50,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-16826-1",
+    "BookId": "AM124",
+    "Format": "Graphic",
+    "PubId": "ESP",
+    "PublicationDate": "24.03.2189",
+    "Pages": 85,
+    "PrintRunSize": 3,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-654-2017-5",
+    "BookId": "IC739",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "09.06.2189",
+    "Pages": 337,
+    "PrintRunSize": 16,
+    "Price": "29,99"
+  },
+  {
+    "ISBN": "989-28-79-16533-8",
+    "BookId": "ST862",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "16.02.2190",
+    "Pages": 531,
+    "PrintRunSize": 9,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-69359-6",
+    "BookId": "CP573",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "02.03.2190",
+    "Pages": 706,
+    "PrintRunSize": 6,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-16808-7",
+    "BookId": "ST303",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "18.05.2190",
+    "Pages": 458,
+    "PrintRunSize": 11,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-654-5018-9",
+    "BookId": "IC739",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "15.07.2190",
+    "Pages": 385,
+    "PrintRunSize": 20,
+    "Price": "16,99"
+  },
+  {
+    "ISBN": "989-28-79-36485-4",
+    "BookId": "ST862",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "14.09.2190",
+    "Pages": 520,
+    "PrintRunSize": 15,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-79-27078-0",
+    "BookId": "NL209",
+    "Format": "Graphic",
+    "PubId": "ESP",
+    "PublicationDate": "05.10.2190",
+    "Pages": 192,
+    "PrintRunSize": 4,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-79-55824-6",
+    "BookId": "CP573",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "21.12.2190",
+    "Pages": 651,
+    "PrintRunSize": 15,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-79-82339-9",
+    "BookId": "TC401",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "22.02.2191",
+    "Pages": 421,
+    "PrintRunSize": 10,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-654-9484-8",
+    "BookId": "SS693",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "01.03.2191",
+    "Pages": 400,
+    "PrintRunSize": 8,
+    "Price": "23,99"
+  },
+  {
+    "ISBN": "989-28-654-3988-7",
+    "BookId": "LS176",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "15.03.2191",
+    "Pages": 368,
+    "PrintRunSize": 2,
+    "Price": "48"
+  },
+  {
+    "ISBN": "989-28-79-86624-2",
+    "BookId": "TP887",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "14.05.2191",
+    "Pages": 1296,
+    "PrintRunSize": 30,
+    "Price": "35,84"
+  },
+  {
+    "ISBN": "989-28-79-64693-6",
+    "BookId": "AY135",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "25.08.2191",
+    "Pages": 645,
+    "PrintRunSize": 36,
+    "Price": "12,5"
+  },
+  {
+    "ISBN": "989-28-229-9769-6",
+    "BookId": "BS284",
+    "Format": "Mass market paperback",
+    "PubId": "SSC",
+    "PublicationDate": "20.09.2191",
+    "Pages": 368,
+    "PrintRunSize": 37,
+    "Price": "9,5"
+  },
+  {
+    "ISBN": "989-28-3705-763-7",
+    "BookId": "MM424",
+    "Format": "Hardcover",
+    "PubId": "CHP",
+    "PublicationDate": "15.11.2191",
+    "Pages": 324,
+    "PrintRunSize": 3,
+    "Price": "22,99"
+  },
+  {
+    "ISBN": "989-28-79-74374-1",
+    "BookId": "RR774",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "03.01.2192",
+    "Pages": 1218,
+    "PrintRunSize": 40,
+    "Price": "21,5"
+  },
+  {
+    "ISBN": "989-28-79-55752-2",
+    "BookId": "TC401",
+    "Format": "Mass market paperback",
+    "PubId": "ESP",
+    "PublicationDate": "03.04.2192",
+    "Pages": 398,
+    "PrintRunSize": 18,
+    "Price": "8,99"
+  },
+  {
+    "ISBN": "989-28-654-6507-7",
+    "BookId": "SS693",
+    "Format": "Trade paperback",
+    "PubId": "PP",
+    "PublicationDate": "15.05.2192",
+    "Pages": 387,
+    "PrintRunSize": 8,
+    "Price": "15,99"
+  },
+  {
+    "ISBN": "989-28-79-03683-6",
+    "BookId": "TA182",
+    "Format": "Hardcover",
+    "PubId": "ESP",
+    "PublicationDate": "03.07.2192",
+    "Pages": 340,
+    "PrintRunSize": 35,
+    "Price": "18,5"
+  },
+  {
+    "ISBN": "989-28-654-3899-6",
+    "BookId": "WK456",
+    "Format": "Hardcover",
+    "PubId": "PP",
+    "PublicationDate": "14.08.2192",
+    "Pages": 207,
+    "PrintRunSize": 2,
+    "Price": "29,99"
+  },
+  {
+    "ISBN": "989-28-79-11297-4",
+    "BookId": "TP887",
+    "Format": "Trade paperback",
+    "PubId": "ESP",
+    "PublicationDate": "25.08.2192",
+    "Pages": 1296,
+    "PrintRunSize": 30,
+    "Price": "13,46"
+  },
+  {
+    "ISBN": "989-28-3705-205-2",
+    "BookId": "MM424",
+    "Format": "Trade paperback",
+    "PubId": "CHP",
+    "PublicationDate": "18.09.2192",
+    "Pages": 324,
+    "PrintRunSize": 8,
+    "Price": "11,99"
+  }
+]

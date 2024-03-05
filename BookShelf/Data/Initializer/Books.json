@@ -1,0 +1,292 @@
+[
+  {
+    "Id": "BB194",
+    "Title": "Ballinby Boys",
+    "AuthorId": "AM329"
+  },
+  {
+    "Id": "NC652",
+    "Title": "Nothing But Capers",
+    "AuthorId": "AS443"
+  },
+  {
+    "Id": "AD222",
+    "Title": "Alanna Saves the Day",
+    "AuthorId": "BH149"
+  },
+  {
+    "Id": "PA169",
+    "Title": "Post Alley",
+    "AuthorId": "BM856"
+  },
+  {
+    "Id": "TC188",
+    "Title": "Thatchwork Cottage",
+    "AuthorId": "BM856"
+  },
+  {
+    "Id": "ZT703",
+    "Title": "Zero over Twelve",
+    "AuthorId": "BM856"
+  },
+  {
+    "Id": "PP866",
+    "Title": "Portmeirion",
+    "AuthorId": "BT132"
+  },
+  {
+    "Id": "RR774",
+    "Title": "Rystwyth",
+    "AuthorId": "BT132"
+  },
+  {
+    "Id": "TM925",
+    "Title": "The Mallemaroking",
+    "AuthorId": "BT132"
+  },
+  {
+    "Id": "CH391",
+    "Title": "Can I Be Honest?",
+    "AuthorId": "CF829"
+  },
+  {
+    "Id": "NL209",
+    "Title": "No More Lightning",
+    "AuthorId": "CF829"
+  },
+  {
+    "Id": "NR695",
+    "Title": "9803 North Millworks Road",
+    "AuthorId": "CS190"
+  },
+  {
+    "Id": "TH296",
+    "Title": "The Winchcombe Railway Museum Heist",
+    "AuthorId": "CS190"
+  },
+  {
+    "Id": "MM424",
+    "Title": "(im)Mortality",
+    "AuthorId": "CW626"
+  },
+  {
+    "Id": "TP887",
+    "Title": "the life and times of an utterly inconsequential person",
+    "AuthorId": "DB605"
+  },
+  {
+    "Id": "LS176",
+    "Title": "Land Water Sky Space",
+    "AuthorId": "EH487"
+  },
+  {
+    "Id": "AY135",
+    "Title": "And I Said Yes",
+    "AuthorId": "EK605"
+  },
+  {
+    "Id": "IA439",
+    "Title": "Interrobangs for All",
+    "AuthorId": "EK605"
+  },
+  {
+    "Id": "KA663",
+    "Title": "Kalakalal Avenue",
+    "AuthorId": "EK605"
+  },
+  {
+    "Id": "BF889",
+    "Title": "Banana Slug and the Glass Half Full",
+    "AuthorId": "GG800"
+  },
+  {
+    "Id": "NB483",
+    "Title": "Not to Gossip, But",
+    "AuthorId": "GG800"
+  },
+  {
+    "Id": "TI225",
+    "Title": "The Thing Is",
+    "AuthorId": "GG800"
+  },
+  {
+    "Id": "CP573",
+    "Title": "Concerning Prophecy",
+    "AuthorId": "GH671"
+  },
+  {
+    "Id": "BC244",
+    "Title": "Banana Slug and the Lost Cow",
+    "AuthorId": "HB302"
+  },
+  {
+    "Id": "BF374",
+    "Title": "Banana Slug and Xyr Friends",
+    "AuthorId": "HB302"
+  },
+  {
+    "Id": "CC830",
+    "Title": "Cimornul",
+    "AuthorId": "JH502"
+  },
+  {
+    "Id": "QQ737",
+    "Title": "Quiddity and Quoddity",
+    "AuthorId": "JH502"
+  },
+  {
+    "Id": "TH556",
+    "Title": "The Startling End of Mr. Hidhoo",
+    "AuthorId": "JK592"
+  },
+  {
+    "Id": "SS693",
+    "Title": "Say it with Snap!",
+    "AuthorId": "JS525"
+  },
+  {
+    "Id": "TH143",
+    "Title": "The Elephant House",
+    "AuthorId": "JS525"
+  },
+  {
+    "Id": "AM124",
+    "Title": "A Horrible Human with the Habits of a Monster",
+    "AuthorId": "KD840"
+  },
+  {
+    "Id": "TT359",
+    "Title": "Turn Left Til You Get There",
+    "AuthorId": "KE397"
+  },
+  {
+    "Id": "DR914",
+    "Title": "Dust on the Rim",
+    "AuthorId": "KY296"
+  },
+  {
+    "Id": "TC401",
+    "Title": "Tales of the Compass",
+    "AuthorId": "KY296"
+  },
+  {
+    "Id": "BS284",
+    "Title": "Burnished Silver",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "DY800",
+    "Title": "Did You Hear?",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "LB510",
+    "Title": "Lace and Brandy",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "MW621",
+    "Title": "Muddy Waters",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "SE355",
+    "Title": "Saint Esme",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "TO369",
+    "Title": "The Scent of Oranges",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "TS869",
+    "Title": "The Seawitch Sings",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "WG715",
+    "Title": "Whither Thou Goest",
+    "AuthorId": "LD375"
+  },
+  {
+    "Id": "SS361",
+    "Title": "Some Eggs or Something?",
+    "AuthorId": "LK915"
+  },
+  {
+    "Id": "HS107",
+    "Title": "Hashtag QuokkaSelfie",
+    "AuthorId": "LL585"
+  },
+  {
+    "Id": "IG460",
+    "Title": "It's Never Just a Glass",
+    "AuthorId": "LN356"
+  },
+  {
+    "Id": "BR858",
+    "Title": "Banana Slug and the Mossy Rock",
+    "AuthorId": "MW974"
+  },
+  {
+    "Id": "HP265",
+    "Title": "Heliotrope Pajamas",
+    "AuthorId": "MW974"
+  },
+  {
+    "Id": "IC739",
+    "Title": "Inconvenient Confessions: a memoir",
+    "AuthorId": "OL640"
+  },
+  {
+    "Id": "WK456",
+    "Title": "Who Did You Think You Were Kidding?",
+    "AuthorId": "PA878"
+  },
+  {
+    "Id": "NP937",
+    "Title": "Natural Pamplemousse",
+    "AuthorId": "PB147"
+  },
+  {
+    "Id": "WO506",
+    "Title": "We're Sisters and We Kinda Like Each Other",
+    "AuthorId": "PH273"
+  },
+  {
+    "Id": "DE571",
+    "Title": "Don't Check your Ego",
+    "AuthorId": "RL217"
+  },
+  {
+    "Id": "ST303",
+    "Title": "Soft, Pliable Truth",
+    "AuthorId": "RP438"
+  },
+  {
+    "Id": "ST862",
+    "Title": "She Also Tottered",
+    "AuthorId": "RP438"
+  },
+  {
+    "Id": "TA182",
+    "Title": "The Spark and The Ashes",
+    "AuthorId": "UK129"
+  },
+  {
+    "Id": "TT773",
+    "Title": "The Triscanipt",
+    "AuthorId": "UK129"
+  },
+  {
+    "Id": "AK974",
+    "Title": "Adventures of Kaya",
+    "AuthorId": "WH901"
+  },
+  {
+    "Id": "DG384",
+    "Title": "The Deep Grey",
+    "AuthorId": "RM781"
+  }
+]
